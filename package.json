@@ -1,7 +1,7 @@
 {
-  "name": "bookshop",
+  "name": "To Do List",
   "version": "1.0.0",
-  "description": "Backend for bookshop store",
+  "description": "Backend for To Do List",
   "main": "app.js",
   "type": "module",
   "scripts": {
